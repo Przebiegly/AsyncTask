@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikacje_Mobilna_Pazdziernik_zadanie_AsyncTask</string>
+    <string name="show_all">Pokaż Wszystkie</string>
+    <string name="add_new_item">Dodaj Nowy Element</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="add_item">Dodaj Element</string>
+</resources>
